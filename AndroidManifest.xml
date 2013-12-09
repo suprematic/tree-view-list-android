@@ -4,4 +4,7 @@
     android:versionCode="2"
     android:versionName="TEST_NEW_BUILD" >
 
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="15" />
 </manifest>
